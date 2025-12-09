@@ -6,8 +6,8 @@ It includes data preprocessing, model training, artifact saving, and a fully dep
 
 🚀 Live Demo
 
-🔗 Streamlit App: Add your deployed URL here
-🔗 GitHub Repo: This README file auto-updates with your project
+🔗 Streamlit App: https://hypertension-api-3imvidcbqjnbn3wqsdnsql.streamlit.app/
+🔗 GitHub Repo: https://github.com/Vijayakumar37/hypertension-api
 
 📊 Project Features
 ✔ Machine Learning Pipeline
@@ -51,13 +51,18 @@ Family History	Yes / No
 Exercise Level	Low / Moderate / High
 Smoking Status	Smoker / Non-smoker
 
-
 🧰 Tech Stack
+
 Python
+
 Pandas, NumPy
+
 Scikit-Learn
+
 Joblib
+
 Streamlit
+
 GitHub
 
 Streamlit Cloud (Deployment)
