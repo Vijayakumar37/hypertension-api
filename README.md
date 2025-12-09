@@ -101,7 +101,7 @@ Understanding healthcare analytics
 
 If you liked this project or want to collaborate, feel free to connect on LinkedIn:
 
-🔗 Your LinkedIn Profile URL
+🔗 https://github.com/Vijayakumar37
 
 ⭐ Show Your Support
 
